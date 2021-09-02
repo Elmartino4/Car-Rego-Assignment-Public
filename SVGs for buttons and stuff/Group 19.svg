@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="357" height="99" viewBox="0 0 357 99">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4086ff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 33px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-3 {
+        filter: url(#Rectangle_21);
+      }
+    </style>
+    <filter id="Rectangle_21" x="0" y="0" width="357" height="99" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_19" data-name="Group 19" transform="translate(-782 -927)">
+    <g id="Group_18" data-name="Group 18">
+      <g class="cls-3" transform="matrix(1, 0, 0, 1, 782, 927)">
+        <rect id="Rectangle_21-2" data-name="Rectangle 21" class="cls-1" width="327" height="69" rx="27" transform="translate(15 15)"/>
+      </g>
+    </g>
+    <text id="Calculate_results" data-name="Calculate results" class="cls-2" transform="translate(833 952)"><tspan x="9.01" y="36">Calculate results</tspan></text>
+  </g>
+</svg>

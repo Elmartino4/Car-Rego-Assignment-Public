@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62.228" height="106.456" viewBox="0 0 62.228 106.456">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #4086ff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 18px;
+      }
+    </style>
+  </defs>
+  <path id="chevron-back-outline" class="cls-1" d="M224.5,112,184,152.5,224.5,193" transform="translate(-175 -99.272)"/>
+</svg>

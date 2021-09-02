@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="173" height="74" viewBox="0 0 173 74">
+  <defs>
+    <filter id="Rectangle_7">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_17" data-name="Group 17" transform="translate(-1324 -296)">
+    <g data-type="innerShadowGroup">
+      <rect id="Rectangle_7-2" data-name="Rectangle 7" width="173" height="74" rx="27" transform="translate(1324 296)" fill="#fff"/>
+      <g transform="matrix(1, 0, 0, 1, 1324, 296)" filter="url(#Rectangle_7)">
+        <rect id="Rectangle_7-3" data-name="Rectangle 7" width="173" height="74" rx="27" fill="#fff"/>
+      </g>
+    </g>
+    <text id="Bussiness" transform="translate(1410 347)" fill="#707070" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="-62.512" y="0">Bussiness</tspan></text>
+  </g>
+</svg>

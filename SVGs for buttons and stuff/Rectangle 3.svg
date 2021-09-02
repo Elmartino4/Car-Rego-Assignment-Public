@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="74" viewBox="0 0 420 74">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        filter: url(#Rectangle_3);
+      }
+    </style>
+    <filter id="Rectangle_3">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g data-type="innerShadowGroup">
+    <rect id="Rectangle_3-2" data-name="Rectangle 3" class="cls-1" width="420" height="74" rx="27"/>
+    <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_3-3" data-name="Rectangle 3" class="cls-1" width="420" height="74" rx="27"/>
+    </g>
+  </g>
+</svg>

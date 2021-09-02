@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="589" height="408" viewBox="0 0 589 408">
+  <defs>
+    <filter id="Rectangle_4">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_19">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="570" height="227" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_21">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.161" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-2">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.161" result="color-4"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-4"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-3">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.161" result="color-5"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-5"/>
+      <feComposite operator="in" in="color-5"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-4">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.161" result="color-6"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-6"/>
+      <feComposite operator="in" in="color-6"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-5">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-opacity="0.161" result="color-7"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-7"/>
+      <feComposite operator="in" in="color-7"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-6">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-opacity="0.161" result="color-8"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-8"/>
+      <feComposite operator="in" in="color-8"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_12" data-name="Group 12" transform="translate(-271 -590)">
+    <g id="Group_9" data-name="Group 9">
+      <text id="Body_Type:" data-name="Body Type:" transform="translate(446.028 590)" fill="#6d6d6d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-95.723" y="43">Body Type:</tspan></text>
+      <g data-type="innerShadowGroup">
+        <rect id="Rectangle_4-2" data-name="Rectangle 4" width="300" height="69" rx="27" transform="translate(419.067 663)" fill="#fff"/>
+        <g transform="matrix(1, 0, 0, 1, 271, 590)" filter="url(#Rectangle_4)">
+          <rect id="Rectangle_4-3" data-name="Rectangle 4" width="300" height="69" rx="27" transform="translate(148.07 73)" fill="#fff"/>
+        </g>
+      </g>
+      <g data-type="innerShadowGroup">
+        <rect id="Rectangle_19-2" data-name="Rectangle 19" width="589" height="246" rx="27" transform="translate(271 752)" fill="#fff"/>
+        <g transform="matrix(1, 0, 0, 1, 271, 590)" filter="url(#Rectangle_19)">
+          <rect id="Rectangle_19-3" data-name="Rectangle 19" width="589" height="246" rx="27" transform="translate(0 162)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(281 762)" clip-path="url(#clip-path)">
+        <g transform="translate(-290 -762)">
+          <g data-type="innerShadowGroup">
+            <rect id="Rectangle_21-7" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(290 762)" fill="#fff"/>
+            <g transform="matrix(1, 0, 0, 1, 280, 590)" filter="url(#Rectangle_21)">
+              <rect id="Rectangle_21-8" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(10 172)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-1 -762)">
+          <g data-type="innerShadowGroup">
+            <rect id="Rectangle_21-9" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(290 762)" fill="#fff"/>
+            <g transform="matrix(1, 0, 0, 1, -9, 590)" filter="url(#Rectangle_21-2)">
+              <rect id="Rectangle_21-10" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(299 172)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-290 -683)">
+          <g data-type="innerShadowGroup">
+            <rect id="Rectangle_21-11" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(290 762)" fill="#fff"/>
+            <g transform="matrix(1, 0, 0, 1, 280, 511)" filter="url(#Rectangle_21-3)">
+              <rect id="Rectangle_21-12" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(10 251)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-1 -683)">
+          <g data-type="innerShadowGroup">
+            <rect id="Rectangle_21-13" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(290 762)" fill="#fff"/>
+            <g transform="matrix(1, 0, 0, 1, -9, 511)" filter="url(#Rectangle_21-4)">
+              <rect id="Rectangle_21-14" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(299 251)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-290 -604)">
+          <g data-type="innerShadowGroup">
+            <rect id="Rectangle_21-15" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(290 762)" fill="#fff"/>
+            <g transform="matrix(1, 0, 0, 1, 280, 432)" filter="url(#Rectangle_21-5)">
+              <rect id="Rectangle_21-16" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(10 330)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(-1 -604)">
+          <g data-type="innerShadowGroup">
+            <rect id="Rectangle_21-17" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(290 762)" fill="#fff"/>
+            <g transform="matrix(1, 0, 0, 1, -9, 432)" filter="url(#Rectangle_21-6)">
+              <rect id="Rectangle_21-18" data-name="Rectangle 21" width="279" height="69" rx="18" transform="translate(299 330)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Type_Here" data-name="Type Here" transform="translate(566 705)" fill="#6d6d6d" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="-51.071" y="0">Type Here</tspan></text>
+    <text id="Suggestions" transform="translate(418 804)" fill="#6d6d6d" font-size="23" font-family="SegoeUI, Segoe UI"><tspan x="-61.863" y="0">Suggestions</tspan></text>
+  </g>
+</svg>

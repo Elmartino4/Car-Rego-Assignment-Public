@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="420" height="147" viewBox="0 0 420 147">
+  <defs>
+    <filter id="Rectangle_3">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Owner_INFO" data-name="Owner's name textbox">
+    <text id="Owners_Name:" data-name="Owners Name:" transform="translate(70 30)" fill="#6d6d6d" font-size="40" font-family="SegoeUI, Segoe UI">Owners Name:</text>
+    <g data-type="innerShadowGroup" transform="matrix(1, 0, 0, 1, 0, 60)">
+      <rect id="Rectangle_3-2" data-name="Rectangle 3" width="420" height="74" rx="27" fill="#fff"/>
+      <g filter="url(#Rectangle_3)">
+        <rect id="Rectangle_3-3" data-name="Rectangle 3" width="420" height="74" rx="27" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
